@@ -7,13 +7,14 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
-  deployments: write
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   deploy-v5:
     runs-on: ubuntu-latest
-    name: Deploy v5 to Cloudflare Pages
+    name: Deploy v5 to Github Pages
     steps:
       - uses: actions/checkout@v6
         with:
@@ -48,8 +49,13 @@ jobs:
       - name: Build Quartz
         run: npx quartz build -d docs -v
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          path: ./public
+
+      - name: Deploy Pages
+        uses: actions/deploy-pages@v4
