@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 5</title>
+      <link>https://ilvendev.github.io/redstate-lore-bank</link>
+      <description>Last 10 notes on Quartz 5</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Canvas</title>
+    <link>https://ilvendev.github.io/redstate-lore-bank/canvas.canvas</link>
+    <guid>https://ilvendev.github.io/redstate-lore-bank/canvas.canvas</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 02 Aug 2026 20:06:28 GMT</pubDate>
+  </item><item>
+    <title>Base</title>
+    <link>https://ilvendev.github.io/redstate-lore-bank/base.base</link>
+    <guid>https://ilvendev.github.io/redstate-lore-bank/base.base</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 02 Aug 2026 20:06:28 GMT</pubDate>
+  </item><item>
+    <title>feature</title>
+    <link>https://ilvendev.github.io/redstate-lore-bank/tags/feature</link>
+    <guid>https://ilvendev.github.io/redstate-lore-bank/tags/feature</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 02 Aug 2026 20:06:28 GMT</pubDate>
+  </item><item>
+    <title>feature/transformer</title>
+    <link>https://ilvendev.github.io/redstate-lore-bank/tags/feature/transformer</link>
+    <guid>https://ilvendev.github.io/redstate-lore-bank/tags/feature/transformer</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 02 Aug 2026 20:06:28 GMT</pubDate>
+  </item><item>
+    <title>feature/emitter</title>
+    <link>https://ilvendev.github.io/redstate-lore-bank/tags/feature/emitter</link>
+    <guid>https://ilvendev.github.io/redstate-lore-bank/tags/feature/emitter</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 02 Aug 2026 20:06:28 GMT</pubDate>
+  </item><item>
+    <title>feature/filter</title>
+    <link>https://ilvendev.github.io/redstate-lore-bank/tags/feature/filter</link>
+    <guid>https://ilvendev.github.io/redstate-lore-bank/tags/feature/filter</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 02 Aug 2026 20:06:28 GMT</pubDate>
+  </item><item>
+    <title>plugin/emitter</title>
+    <link>https://ilvendev.github.io/redstate-lore-bank/tags/plugin/emitter</link>
+    <guid>https://ilvendev.github.io/redstate-lore-bank/tags/plugin/emitter</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 02 Aug 2026 20:06:28 GMT</pubDate>
+  </item><item>
+    <title>plugin/component</title>
+    <link>https://ilvendev.github.io/redstate-lore-bank/tags/plugin/component</link>
+    <guid>https://ilvendev.github.io/redstate-lore-bank/tags/plugin/component</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 02 Aug 2026 20:06:28 GMT</pubDate>
+  </item><item>
+    <title>plugin/pagetype</title>
+    <link>https://ilvendev.github.io/redstate-lore-bank/tags/plugin/pagetype</link>
+    <guid>https://ilvendev.github.io/redstate-lore-bank/tags/plugin/pagetype</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 02 Aug 2026 20:06:28 GMT</pubDate>
+  </item><item>
+    <title>plugin/transformer</title>
+    <link>https://ilvendev.github.io/redstate-lore-bank/tags/plugin/transformer</link>
+    <guid>https://ilvendev.github.io/redstate-lore-bank/tags/plugin/transformer</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 02 Aug 2026 20:06:28 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
