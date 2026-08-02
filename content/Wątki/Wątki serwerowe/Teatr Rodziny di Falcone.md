@@ -1,0 +1,5 @@
+Sycylijska rodzina mafijna [[Rodzina di Falcone|di Falcone]] obrała [[Saint Denis]], największe miasto [[Stan RedState|stanu RedState]] za swoją nową siedzibę po tym, jak sytuacja na Sycylii stała się zbyt niebezpieczna. Przybyli z majątkiem, kontaktami i doświadczeniem, szybko budując własną strefę wpływów.
+
+Rodzina prowadzi zarówno legalne przedsiębiorstwa, jak i działalność przestępczą, traktując oba światy jako narzędzia do osiągnięcia jednego celu – umocnienia swojej pozycji. Ich wpływy obejmują przede wszystkim [[Lemoyne]] oraz zachodnią część [[New Hanover]], gdzie niewielu odważy się działać bez ich wiedzy.
+
+[[Rodzina di Falcone|Di Falcone]] rozumieją jednak, że nawet największe imperium potrzebuje ludzi do wykonywania brudnej roboty. Z tego powodu coraz chętniej nawiązują współpracę z lokalnymi grupami przestępczymi, wyszukując najbardziej wartościowych i lojalnych partnerów. Równocześnie inwestują w lokalne biznesy, oferując wsparcie finansowe, towary – między innymi sprowadzane z Europy wina – oraz ochronę w zamian za informacje, przysługi i wpływy.

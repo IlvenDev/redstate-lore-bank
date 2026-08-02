@@ -1,0 +1,5 @@
+Po zachodniej stronie stanu coraz śmielej działa [[Kartel {nazwa}|meksykański kartel]], którego głównym obszarem działalności pozostaje [[Tumbleweed]] oraz pogranicze z [[Meksyk|Meksykiem]]. Ich wpływy rozciągają się na [[New Austin]] i znaczną część [[West Elizabeth]].
+
+[[Kartel {nazwa}|Kartel]] handluje praktycznie wszystkim, co może przynieść zysk – końmi, odzieżą, alkoholem, bronią oraz innymi legalnymi i nielegalnymi towarami. Nie kierują się lojalnością ani ideologią. Liczy się wyłącznie zysk i przewaga nad konkurencją.
+
+Ich największym atutem pozostaje łatwy dostęp do [[Guarma|Guarmy]], gdzie utrzymują rozbudowaną siatkę kontaktów i kontrolują znaczną część szlaków handlowych. Dzięki temu są w stanie sprowadzać towary, których próżno szukać w innych częściach [[Stan RedState|RedState]].
