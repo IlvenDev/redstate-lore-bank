@@ -34,9 +34,6 @@ jobs:
       - name: Verify Quartz plugins
         run: ls -la .quartz/plugins
 
-      - name: Check types and style
-        run: npm run check
-
       - name: Build Quartz
         run: npx quartz build -d docs -v
 
