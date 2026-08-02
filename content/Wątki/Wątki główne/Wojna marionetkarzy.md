@@ -1,3 +1,8 @@
+---
+title: Wojna marionetkarzy
+---
+---
+
 Główny wątek serwerowy. Opisuje wojnę frakcji o wpływy w Stanie Redstate.
 
 Składa się z 3 wątków serwerowych:
