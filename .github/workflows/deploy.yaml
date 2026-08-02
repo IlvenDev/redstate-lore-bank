@@ -46,6 +46,9 @@ jobs:
       - name: Install Quartz plugins
         run: npx quartz plugin install
 
+      - name: Clean Quartz cache
+        run: rm -rf .quartz-cache public
+
       - name: Build Quartz
         run: npx quartz build -d content -v
 
